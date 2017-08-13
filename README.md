@@ -9,10 +9,10 @@
 ### Important: Ask questions if you get stuck
 
 # Rule G-33 Challenge:  DUE DATE TUESDAY JULY 18TH
- 
+
 A successful program will:
 
-Prompt the user for two inputs: 
+Prompt the user for two inputs:
 A letter indicating if the user will input Accrued Interest, Dollar Price, or Yield (i.e., “A”, “D”, or “Y”)
 A number
 Upon entering the two inputs, the program will perform a rounding function consistent with the Standards of Accuracy; Truncation rounding rules of MSRB Rule G-33 (below)
