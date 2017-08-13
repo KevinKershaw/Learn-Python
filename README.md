@@ -4,7 +4,7 @@
 
 Install python, recommend https://www.continuum.io/downloads, suggest 64 bit version 2.7
 
-Down load VS Code https://code.visualstudio.com/Download 
+Download VS Code https://code.visualstudio.com/Download 
 
 Add the directory with python.exe from install #1 above to system path (if it isn't already)
 
@@ -54,13 +54,13 @@ Numbers shall be rounded, where required, in the following manner: if the last d
 
 ####  More to explore
 
-Restructure your program so that the functions implementing the G-33 standards are in a seperate module
+Restructure your program so that the functions implementing the G-33 standards are in a separate module
 
 Add unit testing for this new module using unittest.py. Prove that your truncation algorithm is correct as well as the correctness of the functions implementing the rounding functions
 
 # Third assignment -- Data processing pipeline
 
-Attached (or in this git repo) is csv file with Apple stock weekly trading values
+In this git repo is a csv file, AAPL.csv, with Apple stock weekly trading values
 
 Unfortunately it is in US dollars. I need the five columns containing dollar values in UK Pounds instead. Save the results to a new file. Lookup the current exchange rate and hard code
 
@@ -74,7 +74,7 @@ Hint 3: Google is your friend
 
 ####  More to explore
 
-Seperate the functions that read and write the csv files into a seperate module. Seperate the converion routines into a seperate module. Create a new main module that integrates the other modules
+Separate the functions that read and write the csv files into a separate module. Separate the converion routines into a separate module. Create a new main module that integrates the other modules
 
 Extra credit: Output in ancient imaginary currency Roman stones. 1 Rock = 1 dollar, 1 pebble in 10 cents, must be expressed in Roman numerals. So $112.50 = "CXII rocks and V pebbles". Formatted just like that. No need to worry about values over $2000 or negative values. No fractional pebbles, sand is worthless, truncate down to whole pebbles. Remember there is no zero in Roman numerals. So we use the special value NO, $0.00 = "NO rocks". If we have a value with no pebbles we omit it from the printed value. I strongly recommend unit tests for this conversion
 
@@ -82,4 +82,4 @@ Look into passing command line arguements (sys.argv). Create a version of this e
 
 In the Unix world programs are often put together in a pipeline with the output of one program being directed into the input of the next program. Create a version of this exercise that reads from standard in and write to standard out
 
-As with other challenges, post your solution to GitHub and send me the link. If you get stuck ask questions
+As with other challenges, post your solution to GitHub and send me the link. If you get stuck, ask questions
