@@ -14,10 +14,9 @@ Create a repository in GitHub.com, upload your python code and mail me the url
 
 ### Important: Ask questions if you get stuck
 
-# Rule G-33 Challenge:
+# Second Assignment -- Rule G-33 Challenge (thank you Karl Eiholzer)
 
-A successful program will:
-Prompt the user for two inputs:
+A successful program will prompt the user for two inputs:
 - A letter indicating if the user will input Accrued Interest, Dollar Price, or Yield (i.e., “A”, “D”, or “Y”)
 - A number
 Upon entering the two inputs, the program will perform a rounding function consistent with the Standards of Accuracy; Truncation rounding rules of MSRB Rule G-33 (below)
@@ -50,14 +49,18 @@ Standards of Accuracy; Truncation.
 
 Numbers shall be rounded, where required, in the following manner: if the last digit after truncation is five or above, the preceding digit shall be increased to the next highest number, and the last digit shall be discarded.
 
-# Attached is csv file with Apple stock weekly trading values.
+# Third Assignment -- Data processing pipeline
+
+Attached is csv file with Apple stock weekly trading values.
 
 Unfortunately it is in US dollars. I need the five columns containing dollar values in UK Pounds instead.
 
 In Euros.
 
 Hint: the open() function can be used to open text files, the 'rb' option is probably required.
-Hint 2: import csv and use the csv.reader() function to read the data or the csv.DictReader() to use the header names to read the data for each row. 
+
+Hint 2: import csv and use the csv.reader() function to read the data or the csv.DictReader() to use the header names to read the data for each row.
+
 Hint 3: Google is your friend.
 
 Extra credit: Output in ancient imaginary currency Roman stones. 1 Rock = 1 dollar, 1 pebble in 10 cents, must be expressed in Roman numerals. So $112.50 = "CXII rocks and V pebbles". Formatted just like that. No need to worry about values over $2000 or negative values. No fractional pebbles, sand is worthless, truncate down to whole pebbles. Remember there is no zero in Roman numerals. So we use the special value NO, $0.00 = "NO rocks". If we have a value with no pebbles we omit it from the printed value.
