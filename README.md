@@ -16,7 +16,7 @@ Create a repository in GitHub.com, upload your python code and mail me the url
 
 ####  More to explore
 
-Look into '__main__' and its usage
+Look into \_\_main\_\_ and its usage
 
 # Second assignment -- Rule G-33 Challenge (thank you Karl Eiholzer)
 
@@ -56,7 +56,7 @@ Numbers shall be rounded, where required, in the following manner: if the last d
 
 Restructure your program so that the functions implementing the G-33 standards are in a seperate module
 
-Add unit testing for this new module using unittest.py. Prove that your truncation algorythm is correct as well as the correctness of the functions implementing the rounding functions
+Add unit testing for this new module using unittest.py. Prove that your truncation algorithm is correct as well as the correctness of the functions implementing the rounding functions
 
 # Third assignment -- Data processing pipeline
 
