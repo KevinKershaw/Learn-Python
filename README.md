@@ -3,15 +3,8 @@
 # First assignment
 Install python, recommend https://www.continuum.io/downloads , suggest 64 bit version 2.7 
  
-Download Anaconda Now! | Continuum
-www.continuum.io
-Which version should I download and install? With Anaconda you can run multiple versions of Python in isolated environments, so choose the download with the Python ...
 Down load VS Code https://code.visualstudio.com/Download 
- 
-Download Visual Studio Code - Mac, Linux, Windows
-code.visualstudio.com
-Visual Studio Code is free and available on your favorite platform - Linux, Mac OSX, and Windows. Download Visual Studio Code to experience a redefined code editor ...
-Install the Python extension for VS Code by Don Jayamanne
+
 Add the directory with python.exe from install #1 above to system path (if it isn't already)
 Create a python program that print Hello World
 Create a repository in GitHub.com, upload your python code and mail me the url
@@ -22,6 +15,7 @@ Important: Ask questions if you get stuck
 # Rule G-33 Challenge:  DUE DATE TUESDAY JULY 18TH
  
 A successful program will:
+
 Prompt the user for two inputs: 
 A letter indicating if the user will input Accrued Interest, Dollar Price, or Yield (i.e., “A”, “D”, or “Y”)
 A number
