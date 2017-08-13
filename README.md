@@ -27,7 +27,7 @@ A successful program will prompt the user for two inputs:
 Upon entering the two inputs, the program will perform a rounding function consistent with the "Standards of Accuracy; Truncation rounding rules of MSRB Rule G-33" (below)
 
 Bonus: user can continue entering numbers repeatedly, but has a way to exit when boredom threshold is exceeded
- 
+
 Tips:
 
 Each of the three rounding rules should have its own function
