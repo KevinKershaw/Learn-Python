@@ -34,7 +34,7 @@ Do not worry about handling invalid inputs – assume the user will only enter v
 
 Programmers who attempt to complete the assignment during the meeting will be buying for the others on coffee runs
 
-Rule G-33
+### Rule G-33
 
 Standards of Accuracy; Truncation.
 
