@@ -51,7 +51,7 @@ Numbers shall be rounded, where required, in the following manner: if the last d
 
 # Third Assignment -- Data processing pipeline
 
-Attached is csv file with Apple stock weekly trading values.
+Attached (or in this git repo) is csv file with Apple stock weekly trading values.
 
 Unfortunately it is in US dollars. I need the five columns containing dollar values in UK Pounds instead.
 
@@ -65,4 +65,4 @@ Hint 3: Google is your friend.
 
 Extra credit: Output in ancient imaginary currency Roman stones. 1 Rock = 1 dollar, 1 pebble in 10 cents, must be expressed in Roman numerals. So $112.50 = "CXII rocks and V pebbles". Formatted just like that. No need to worry about values over $2000 or negative values. No fractional pebbles, sand is worthless, truncate down to whole pebbles. Remember there is no zero in Roman numerals. So we use the special value NO, $0.00 = "NO rocks". If we have a value with no pebbles we omit it from the printed value.
 
-As with other challenge, post your solution to GitHub and send me the link. If you get stuck ask questions.
+As with other challenges, post your solution to GitHub and send me the link. If you get stuck ask questions.
