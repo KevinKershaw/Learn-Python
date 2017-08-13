@@ -1,11 +1,17 @@
 # Learn-Python
 
 # First assignment
-#### Install python, recommend https://www.continuum.io/downloads , suggest 64 bit version 2.7
-#### Down load VS Code https://code.visualstudio.com/Download 
-#### Add the directory with python.exe from install #1 above to system path (if it isn't already)
-#### Create a python program that prints Hello World
-#### Create a repository in GitHub.com, upload your python code and mail me the url
+
+Install python, recommend https://www.continuum.io/downloads , suggest 64 bit version 2.7
+
+Down load VS Code https://code.visualstudio.com/Download 
+
+Add the directory with python.exe from install #1 above to system path (if it isn't already)
+
+Create a python program that prints Hello World
+
+Create a repository in GitHub.com, upload your python code and mail me the url
+
 ### Important: Ask questions if you get stuck
 
 # Rule G-33 Challenge:  DUE DATE TUESDAY JULY 18TH
